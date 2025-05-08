@@ -16,13 +16,13 @@ This project also serves as a **step-by-step guide** to help you translate the g
 ## 🛠 Tool-List
 
 `GrfUnpack`** to unpack data.pak 
-[https://github.com/exectails/GrfUnpack](https://github.com/exectails/GrfUnpack.git)
+[GrfUnpack](https://github.com/exectails/GrfUnpack.git)
 
 `Notepad++`** to edit translateable files 
 [Notepad++](https://notepad-plus-plus.org/downloads/)
 
 `Arcturus Fonttool`** to edit arcfonte.dat or other arcfont-dat-files 
-[Arcturus Fontedit](fontedit)
+[Arcturus Fonttool](fontedit)
 
 `decrsa/encrsa`** to decrypt/encrypt RSA-files
 [Arcturus decrsa/encrsa](https://cyberwarriorx.com/translation-utilities)
@@ -33,7 +33,7 @@ This project also serves as a **step-by-step guide** to help you translate the g
 
 To localize Arcturus, you'll primarily work with the contents of the `data.pak` file, located in the **root directory** after installation. Additionally, some menus in `Arcexe.exe` can be modified using a **hex editor**.
 
-You can **fully unpack `data.pak`** using a special version of **GrfWiz.exe** or **GrfUnpack**.
+You can **fully unpack `data.pak`** using a special version of **GrfWiz.exe** or [GrfUnpack](https://github.com/exectails/GrfUnpack.git).
 
 ### Key File Types:
 
@@ -50,7 +50,7 @@ You can **fully unpack `data.pak`** using a special version of **GrfWiz.exe** or
 - **`.RSA`** – Contains cutscene dialogue and events for protagonists and NPCs.  
   These are **encrypted** and must be decrypted before editing and encrypted again afterward.
 
-For `.RSA` files, use **Theo Berkau’s 2003 tools**:  
+For `.RSA` files, use [Arcturus decrsa/encrsa](https://cyberwarriorx.com/translation-utilities):  
 🔧 `DECRSA` (decrypt) & `ENCRSA` (encrypt)
 
 > 📝 *Note: Other file types may also contain text. This list will be updated over time.*
@@ -59,7 +59,7 @@ For `.RSA` files, use **Theo Berkau’s 2003 tools**:
 
 ## 🛠 How to Edit `.SCR` and `.TXT` Files
 
-The game uses the **EUC-KR encoding**, so use a text editor like **Notepad++** that supports it to view and edit text properly.
+The game uses the **EUC-KR encoding**, so use a text editor like [Notepad++](https://notepad-plus-plus.org/downloads/) that supports it to view and edit text properly.
 
 In `.SCR` and `.RSA` files, you’ll find text using these commands:
 
@@ -114,7 +114,7 @@ This will overwrite or create a new test.rsa, which can then be placed back in /
 
 ## ✏️ How to Edit `arcfonte.dat` (Font File)
 
-To display **special characters** in Western languages, you’ll need to edit `arcfonte.dat` using a font editor like **FontEdit** (configured to read 18 bytes per row).
+To display **special characters** in Western languages, you’ll need to edit `arcfonte.dat` using a font editor like [Arcturus Fonttool](fontedit) (configured to read 18 bytes per row).
 
 Replace unused characters with your desired special characters.  
 Here is a sample character mapping used for the German translation:
