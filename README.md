@@ -1,7 +1,7 @@
 # Arcturus-Curstom-Translation
 Any Translation of Arcturus: The Curse and Loss of Divinity (Korean 2 Disc Version)
 
-![Arcturus german](./images/title_german.JPG)
+![Arcturus german](./images/title_german.jpg)
 
 # 🌐 Arcturus Korean to Other Languages Translation Project
 
@@ -9,7 +9,7 @@ Since the English Translation of **Arcturus** became available, this repository 
 
 This project also serves as a **step-by-step guide** to help you translate the game into other languages, such as **French, Spanish**, and beyond.
 
-![Arcturus german](./images/shout_german.JPG)
+![Arcturus german](./images/shout_german.jpg)
 
 ---
 
@@ -68,7 +68,7 @@ Additional `.SCR` commands:
 Item names can be edited in:  
 `data/diary/item.txt`
 
-![Arcturus german](./images/choice_german.JPG)
+![Arcturus german](./images/choice_german.jpg)
 > ⚠️ sadly i still dont know how to show Capital Letters ingame using translations in  `SCR`-Files **=(**.
 
 ---
