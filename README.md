@@ -63,22 +63,22 @@ The game uses the **EUC-KR encoding**, so use a text editor like [Notepad++](htt
 
 In `.SCR` and `.RSA` files, you’ll find text using these commands:
 
-`say` " text here "
+>`say` " text here "
 
-`monologue` " thought bubble text "
+>`monologue` " thought bubble text "
 
-`shout` " jagged speech bubble text "
+>`shout` " jagged speech bubble text "
 
-`header` " screen overlay text "
+>`header` " screen overlay text "
 
 
 Additional `.SCR` commands:
 
-`msg` " message box text "
+>`msg` " message box text "
 
-`choose` "option 1" "option 2"
+>`choose` "option 1" "option 2"
 
-`getitem` itemname
+>`getitem` itemname
 > ⚠️ Be careful when renaming items. You can leave the internal ID in Korean and only change the **display name**.
 
 Item names can be edited in:  
@@ -103,13 +103,13 @@ This will overwrite or create a new test.rsa, which can then be placed back in /
 
 🧠 RSA files use the following text triggers as `.SCR` files:
 
-`say` " text here "
+>`say` " text here "
 
-`monologue` " thought bubble text "
+>`monologue` " thought bubble text "
 
-`shout` " jagged speech bubble text "
+>`shout` " jagged speech bubble text "
 
-`header` " screen overlay text "
+>`header` " screen overlay text "
 
 
 ## ✏️ How to Edit `arcfonte.dat` (Font File)
