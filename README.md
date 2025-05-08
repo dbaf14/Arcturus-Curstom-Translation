@@ -13,11 +13,27 @@ This project also serves as a **step-by-step guide** to help you translate the g
 
 ---
 
+## 🛠 Tool-List
+
+`GrfUnpack`** to unpack data.pak 
+[https://github.com/exectails/GrfUnpack](https://github.com/exectails/GrfUnpack.git)
+
+`Notepad++`** to edit translateable files 
+[Notepad++](https://notepad-plus-plus.org/downloads/)
+
+`Arcturus Fonttool`** to edit arcfonte.dat or other arcfont-dat-files 
+[Arcturus Fontedit](fontedit)
+
+`decrsa/encrsa`** to decrypt/encrypt RSA-files
+[Arcturus decrsa/encrsa](https://cyberwarriorx.com/translation-utilities)
+
+---
+
 ## 📁 Which Files Need to Be Edited?
 
 To localize Arcturus, you'll primarily work with the contents of the `data.pak` file, located in the **root directory** after installation. Additionally, some menus in `Arcexe.exe` can be modified using a **hex editor**.
 
-You can **fully unpack `data.pak`** using a special version of **GrfWiz.exe**.
+You can **fully unpack `data.pak`** using a special version of **GrfWiz.exe** or **GrfUnpack**.
 
 ### Key File Types:
 
