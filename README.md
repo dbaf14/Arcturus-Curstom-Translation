@@ -3,7 +3,7 @@ Any Translation of Arcturus: The Curse and Loss of Divinity (Korean 2 Disc Versi
 
 # 🌐 Arcturus Korean to Other Languages Translation Project
 
-Since the English version of **Arcturus** became available, this repository aims to provide the same opportunity for players of the **original Korean version** — starting with a **German translation** as an example.
+Since the English Translation of **Arcturus** became available, this repository aims to provide the same opportunity for players of the **original Korean version** — starting with a **German translation** as an example.
 
 This project also serves as a **step-by-step guide** to help you translate the game into other languages, such as **French, Spanish**, and beyond.
 
@@ -44,13 +44,18 @@ The game uses the **EUC-KR encoding**, so use a text editor like **Notepad++** t
 In `.SCR` and `.RSA` files, you’ll find text using these commands:
 
 `say` " text here "
+
 `monologue` " thought bubble text "
+
 `shout` " jagged speech bubble text "
+
 `header` " screen overlay text "
+
 
 Additional `.SCR` commands:
 
 `msg` " message box text "
+
 `choose` "option 1" "option 2"
 
 `getitem` itemname
@@ -76,9 +81,13 @@ This will overwrite or create a new test.rsa, which can then be placed back in /
 🧠 RSA files use the following text triggers as `.SCR` files:
 
 `say` " text here "
+
 `monologue` " thought bubble text "
+
 `shout` " jagged speech bubble text "
+
 `header` " screen overlay text "
+
 
 ## ✏️ How to Edit `arcfonte.dat` (Font File)
 
@@ -111,3 +120,5 @@ To display **"Ich heiße Sizz und bin kein Mädchen"**, you'd write:
 Once finished, save the file and place it in the `/data` directory.  
 Note: Not all glyphs/fields in `arcfonte.dat` are used by the game.
 
+
+https://github.com/dbaf14/Arcturus-Curstom-Translation/blob/43c6c4c728b3799ba03bd6621bd01db36569affe/font/screenshot_fonttool.JPG
