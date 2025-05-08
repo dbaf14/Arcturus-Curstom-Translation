@@ -110,6 +110,8 @@ Here is a sample character mapping used for the German translation:
 To display **"Ich heiße Sizz und bin kein Mädchen"**, you'd write:  
 **`Ich hei+e Sizz und bin kein M=dchen`**
 
+![Arcturus fonttool](./font/screenshot_fonttool.JPG)
+
 ### FontEdit Color Codes:
 - `00` – Transparent (background)
 - `FF` – Black
@@ -121,4 +123,3 @@ Once finished, save the file and place it in the `/data` directory.
 Note: Not all glyphs/fields in `arcfonte.dat` are used by the game.
 
 
-https://github.com/dbaf14/Arcturus-Curstom-Translation/blob/43c6c4c728b3799ba03bd6621bd01db36569affe/font/screenshot_fonttool.JPG
