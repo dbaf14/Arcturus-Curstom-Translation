@@ -1,0 +1,10 @@
+C:\Users\SHIN\source\repos\fontedit\fontedit\obj\Debug\fontedit.csproj.AssemblyReference.cache
+C:\Users\SHIN\source\repos\fontedit\fontedit\obj\Debug\fontedit.Form1.resources
+C:\Users\SHIN\source\repos\fontedit\fontedit\obj\Debug\fontedit.Properties.Resources.resources
+C:\Users\SHIN\source\repos\fontedit\fontedit\obj\Debug\fontedit.csproj.GenerateResource.cache
+C:\Users\SHIN\source\repos\fontedit\fontedit\obj\Debug\fontedit.csproj.CoreCompileInputs.cache
+C:\Users\SHIN\source\repos\fontedit\fontedit\bin\Debug\fontedit.exe.config
+C:\Users\SHIN\source\repos\fontedit\fontedit\bin\Debug\fontedit.exe
+C:\Users\SHIN\source\repos\fontedit\fontedit\bin\Debug\fontedit.pdb
+C:\Users\SHIN\source\repos\fontedit\fontedit\obj\Debug\fontedit.exe
+C:\Users\SHIN\source\repos\fontedit\fontedit\obj\Debug\fontedit.pdb

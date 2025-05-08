@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35931.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fontedit", "fontedit\fontedit.csproj", "{DE00F1BE-D331-4A30-A1A4-6487D649D34C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE00F1BE-D331-4A30-A1A4-6487D649D34C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE00F1BE-D331-4A30-A1A4-6487D649D34C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE00F1BE-D331-4A30-A1A4-6487D649D34C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE00F1BE-D331-4A30-A1A4-6487D649D34C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {077A18D7-8DF6-42BF-B015-D12C0D43BB5C}
+	EndGlobalSection
+EndGlobal
