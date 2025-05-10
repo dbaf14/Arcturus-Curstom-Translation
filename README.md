@@ -17,19 +17,19 @@ This project also serves as a **step-by-step guide** to help you translate the g
 
 ## 🛠 Tool-List
 
-`GrfUnpack`** to unpack data.pak 
+`GrfUnpack` to unpack data.pak 
 [GrfUnpack](https://github.com/exectails/GrfUnpack.git)
 
-`Notepad++`** to edit translateable files 
+`Notepad++` to edit translateable files 
 [Notepad++](https://notepad-plus-plus.org/downloads/)
 
-`dbaf14's Arcturus Translation Tool`** to edit translateable files in a comfortable way
-[dbaf14's Arcturus Translation Tool](arctranslationtool)
+`dbaf14's Arcturus Translation Tool` to edit translateable files in a comfy way
+[dbaf14's ArctransTool](arctranslationtool)
 
-`dbaf14's Arcturus Fonttool`** to edit arcfonte.dat or other arcfont-dat-files 
+`dbaf14's Arcturus Fonttool` to edit arcfonte.dat or other arcfont-dat-files 
 [dbaf14's Arcturus Fonttool](fontedit)
 
-`decrsa/encrsa`** to decrypt/encrypt RSA-files
+`decrsa/encrsa` to decrypt/encrypt RSA-files
 [Arcturus decrsa/encrsa](https://cyberwarriorx.com/translation-utilities)
 
 ---
