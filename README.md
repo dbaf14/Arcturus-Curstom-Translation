@@ -1,4 +1,4 @@
-# Arcturus-Curstom-Translation-Tools
+# Arcturus-Custom-Translation-Tools
 Any Translation of Arcturus: The Curse and Loss of Divinity (Korean 2 Disc Version)
 
 ![Arcturus german](./images/title_german.jpg)
