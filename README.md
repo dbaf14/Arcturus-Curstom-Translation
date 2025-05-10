@@ -3,11 +3,11 @@ Any Translation of Arcturus: The Curse and Loss of Divinity (Korean 2 Disc Versi
 
 ![Arcturus german](./images/title_german.jpg)
 
-![Arcturus translation tool](./images/arctranstool.jpg)
+![Arcturus translation tool](./images/arctranstool.JPG)
 
 # 🌐 Arcturus Translation Project
 
-Since the English Translation based of the japanese version of **Arcturus** became available in 2017, this repository aims to provide the same opportunity for players of the **original Korean version** — starting with a **German translation** as an example.
+Since the English Translation based on the japanese version of **Arcturus** became available in 2017, this repository aims to provide the same opportunity for players of the **original Korean version** — starting with a **German translation** as an example.
 
 This project also serves as a **step-by-step guide** to help you translate the game into other languages, such as **French, Spanish**, and beyond.
 
