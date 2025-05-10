@@ -1,11 +1,13 @@
-# Arcturus-Curstom-Translation
+# Arcturus-Curstom-Translation-Tools
 Any Translation of Arcturus: The Curse and Loss of Divinity (Korean 2 Disc Version)
 
 ![Arcturus german](./images/title_german.jpg)
 
-# 🌐 Arcturus Korean to Other Languages Translation Project
+![Arcturus translation tool](./images/arctranstool.jpg)
 
-Since the English Translation of **Arcturus** became available, this repository aims to provide the same opportunity for players of the **original Korean version** — starting with a **German translation** as an example.
+# 🌐 Arcturus Translation Project
+
+Since the English Translation based of the japanese version of **Arcturus** became available in 2017, this repository aims to provide the same opportunity for players of the **original Korean version** — starting with a **German translation** as an example.
 
 This project also serves as a **step-by-step guide** to help you translate the game into other languages, such as **French, Spanish**, and beyond.
 
@@ -21,8 +23,11 @@ This project also serves as a **step-by-step guide** to help you translate the g
 `Notepad++`** to edit translateable files 
 [Notepad++](https://notepad-plus-plus.org/downloads/)
 
-`Arcturus Fonttool`** to edit arcfonte.dat or other arcfont-dat-files 
-[Arcturus Fonttool](fontedit)
+`dbaf14's Arcturus Translation Tool`** to edit translateable files in a comfortable way
+[dbaf14's Arcturus Translation Tool](arctranslationtool)
+
+`dbaf14's Arcturus Fonttool`** to edit arcfonte.dat or other arcfont-dat-files 
+[dbaf14's Arcturus Fonttool](fontedit)
 
 `decrsa/encrsa`** to decrypt/encrypt RSA-files
 [Arcturus decrsa/encrsa](https://cyberwarriorx.com/translation-utilities)
@@ -59,7 +64,7 @@ For `.RSA` files, use [Arcturus decrsa/encrsa](https://cyberwarriorx.com/transla
 
 ## 🛠 How to Edit `.SCR` and `.TXT` Files
 
-The game uses the **EUC-KR encoding**, so use a text editor like [Notepad++](https://notepad-plus-plus.org/downloads/) that supports it to view and edit text properly.
+The game uses the **EUC-KR encoding**, so use a text editor like [Notepad++](https://notepad-plus-plus.org/downloads/) that supports it to view and edit text properly or [dbaf14's Arcturus Translation Tool](arctranslationtool) (Be sure to have a legend.ini-file next to the executable to use symbol replacement)
 
 In `.SCR` and `.RSA` files, you’ll find text using these commands:
 
@@ -93,7 +98,7 @@ Item names can be edited in:
 
 1. **Decrypt** using the `DECRSA` tool:
    - Drag & drop `test.rsa` onto `decrsa.exe` → Produces `test.txt`
-   - Edit `test.txt` with Notepad++ (EUC-KR encoding)
+   - Edit `test.txt` with Notepad++ (EUC-KR encoding) or [dbaf14's Arcturus Translation Tool](arctranslationtool) 
 
 2. **Encrypt** using the `ENCRSA` tool:
    ```bash
@@ -114,7 +119,7 @@ This will overwrite or create a new test.rsa, which can then be placed back in /
 
 ## ✏️ How to Edit `arcfonte.dat` (Font File)
 
-To display **special characters** in Western languages, you’ll need to edit `arcfonte.dat` using a font editor like [Arcturus Fonttool](fontedit) (configured to read 18 bytes per row).
+To display **special characters** in Western languages, you’ll need to edit `arcfonte.dat` using a font editor like [dbaf14's Arcturus Fonttool](fontedit) (configured to read 18 bytes per row).
 
 Replace unused characters with your desired special characters.  
 Here is a sample character mapping used for the German translation:
@@ -130,10 +135,15 @@ Here is a sample character mapping used for the German translation:
 | `+`       | ß        |
 
 > Example:  
-To display **"Ich heiße Sizz und bin kein Mädchen"**, you'd write:  
-**`Ich hei+e Sizz und bin kein M=dchen`**
+To display
 
-![Arcturus fonttool](./font/screenshot_fonttool.JPG)
+> **"Ich heiße Sizz und bin kein Mädchen"**
+
+ , you'd write:
+  
+> **"Ich hei+e Sizz und bin kein M=dchen"**
+
+![dbaf14's Arcturus fonttool](./font/screenshot_fonttool.JPG)
 
 ### FontEdit Color Codes:
 - `00` – Transparent (background)
