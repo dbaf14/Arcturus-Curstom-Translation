@@ -159,7 +159,7 @@ Note: Not all glyphs/fields in `arcfonte.dat` are used by the game.
 
 To use [dbaf14's Arcturus Translation Tool](arctranslationtool), simply **load a `.SCR` file** or a **decrypted `.TXT` (RSA) file**, and begin editing the text as needed.
 
-Once you're done, click **`TranslateSave`** to write your changes **directly back to the original file**.
+Once you're done, click **`<TranslateSave<`** to write your changes **directly back to the original file**.
 
 > ✅ **Symbol replacement** is handled automatically — just make sure that the `legend.ini` file is placed in the **same directory** as the tool's executable.
 
