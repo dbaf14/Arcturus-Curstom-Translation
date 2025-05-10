@@ -1,0 +1,10 @@
+C:\Users\SHIN\source\repos\arctranslator\arctranslator\obj\Debug\arctranslator.csproj.AssemblyReference.cache
+C:\Users\SHIN\source\repos\arctranslator\arctranslator\obj\Debug\arctranslator.Properties.Resources.resources
+C:\Users\SHIN\source\repos\arctranslator\arctranslator\obj\Debug\arctranslator.csproj.GenerateResource.cache
+C:\Users\SHIN\source\repos\arctranslator\arctranslator\obj\Debug\arctranslator.csproj.CoreCompileInputs.cache
+C:\Users\SHIN\source\repos\arctranslator\arctranslator\bin\Debug\arctranslator.exe.config
+C:\Users\SHIN\source\repos\arctranslator\arctranslator\bin\Debug\arctranslator.exe
+C:\Users\SHIN\source\repos\arctranslator\arctranslator\bin\Debug\arctranslator.pdb
+C:\Users\SHIN\source\repos\arctranslator\arctranslator\obj\Debug\arctranslator.exe
+C:\Users\SHIN\source\repos\arctranslator\arctranslator\obj\Debug\arctranslator.pdb
+C:\Users\SHIN\source\repos\arctranslator\arctranslator\obj\Debug\ArcTransTool.Form1.resources
