@@ -159,8 +159,22 @@ Note: Not all glyphs/fields in `arcfonte.dat` are used by the game.
 
 To use [dbaf14's Arcturus Translation Tool](arctranslationtool), simply **load a `.SCR` file** or a **decrypted `.TXT` (RSA) file**, and begin editing the text as needed.
 
-Once you're done, click **`<TranslateSave<`** to write your changes **directly back to the original file**.
+Once you're done, click 
+**`<TranslateSave<`** to write your changes **directly back to the original file**.
 
 > ✅ **Symbol replacement** is handled automatically — just make sure that the `legend.ini` file is placed in the **same directory** as the tool's executable.
 
 🔄 **Only the lines you edit will be written back**, allowing you to translate comfortably without affecting the rest of the file.
+
+
+----
+
+## Legal Disclaimer
+
+This project is intended solely for research, translation, and preservation purposes related to the Korean video game *Arcturus: The Curse and Loss of Divinity* (2000/2001). It does **not** include any copyrighted game files, such as original graphics, music, dialogue, or binaries.
+
+All tools and scripts provided here were **developed independently partially with help of chatGPT** and are meant solely for editing script files that users must legally obtain themselves. No complete translation or playable version of the game is distributed through this repository.
+
+*Arcturus* and all related content are the intellectual property of their respective rights holders. This project is **not affiliated with the original developers or publishers** and is strictly non-commercial.
+
+If any rights holders have concerns, please feel free to contact us—content will be removed upon request.
